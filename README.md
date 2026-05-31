@@ -238,9 +238,9 @@ Through this project, I gained practical experience in:
 
 Computer Engineering Student | AI & ML Enthusiast | Full-Stack Developer
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+LinkedIn: www.linkedin.com/in/divyakumar-jadhav-87b5b9312
 
-GitHub: https://github.com/your-github-username
+GitHub: [https://github.com/your-github-username](https://github.com/Divykumarj)
 
 ---
 
